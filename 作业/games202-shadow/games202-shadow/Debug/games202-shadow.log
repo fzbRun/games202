@@ -1,0 +1,19 @@
+﻿  games202-shadow.cpp
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(56,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(57,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(62,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(63,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(65,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(66,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(73,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(127,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(315,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(315,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(366,53): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(366,44): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(379,77): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(379,66): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(442,37): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-shadow\games202-shadow\games202-shadow.cpp(442,26): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  games202-shadow.vcxproj -> C:\Users\方赞博\Desktop\games202\作业\games202-shadow\Debug\games202-shadow.exe

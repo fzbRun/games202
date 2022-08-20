@@ -1,0 +1,36 @@
+﻿  games202-SSR.cpp
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(54,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(55,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(58,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(59,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(61,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(62,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(68,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(260,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(260,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(296,75): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(296,64): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(302,56): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(302,45): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(312,56): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(312,45): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(331,55): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(331,44): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(347,56): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(347,45): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(363,56): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(363,45): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(380,75): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(380,64): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(394,55): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(394,44): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(402,70): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(402,54): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(410,70): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(410,54): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(418,70): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(418,54): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(532,37): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-SSR\games202-SSR\games202-SSR.cpp(532,26): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  games202-SSR.vcxproj -> C:\Users\方赞博\Desktop\games202\作业\games202-SSR\Debug\games202-SSR.exe

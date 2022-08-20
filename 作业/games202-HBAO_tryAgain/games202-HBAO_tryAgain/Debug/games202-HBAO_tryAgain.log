@@ -1,0 +1,25 @@
+﻿  games202-HBAO_tryAgain.cpp
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(54,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(55,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(58,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(59,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(61,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(62,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(68,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(115,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(433,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(433,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(467,77): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(467,66): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(473,56): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(473,45): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(483,55): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(483,44): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(504,55): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(504,44): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(522,55): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(522,44): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(540,55): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\games202-HBAO_tryAgain\games202-HBAO_tryAgain.cpp(540,44): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  games202-HBAO_tryAgain.vcxproj -> C:\Users\方赞博\Desktop\games202\作业\games202-HBAO_tryAgain\Debug\games202-HBAO_tryAgain.exe

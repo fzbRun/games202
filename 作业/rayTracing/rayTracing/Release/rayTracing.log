@@ -1,0 +1,22 @@
+﻿  Ray.cpp
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\Ray.cpp(221,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\Ray.cpp(223,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\Ray.cpp(225,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\Ray.cpp(246,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ray_tracing.cpp
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(57,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(58,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(61,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(62,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(64,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(65,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(71,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(118,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(493,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\66406\Desktop\games202\作业\rayTracing\rayTracing\ray_tracing.cpp(493,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 495 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  rayTracing.vcxproj -> C:\Users\66406\Desktop\games202\作业\rayTracing\Release\rayTracing.exe
